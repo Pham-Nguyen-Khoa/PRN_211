@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\PRN211-Bai1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{733FAD6D-EAC9-4BEB-AE14-ACC4907EEBB2}|PRN211-Bai1\\PRN211-Bai1.csproj|c:\\users\\pc\\source\\repos\\prn211-bai1\\prn211-bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{733FAD6D-EAC9-4BEB-AE14-ACC4907EEBB2}|PRN211-Bai1\\PRN211-Bai1.csproj|solutionrelative:prn211-bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E9276B-6ED1-4C3F-82C7-67FB0FB147AB}|Bussiness_Object\\Bussiness_Object.csproj|c:\\users\\pc\\source\\repos\\prn211-bai1\\bussiness_object\\book_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E9276B-6ED1-4C3F-82C7-67FB0FB147AB}|Bussiness_Object\\Bussiness_Object.csproj|solutionrelative:bussiness_object\\book_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733FAD6D-EAC9-4BEB-AE14-ACC4907EEBB2}|PRN211-Bai1\\PRN211-Bai1.csproj|c:\\users\\pc\\source\\repos\\prn211-bai1\\prn211-bai1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{733FAD6D-EAC9-4BEB-AE14-ACC4907EEBB2}|PRN211-Bai1\\PRN211-Bai1.csproj|solutionrelative:prn211-bai1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DABC29E-A4E8-41F7-B936-DDDE83A4B338}|Bussiness_Repository\\Bussiness_Repository.csproj|c:\\users\\pc\\source\\repos\\prn211-bai1\\bussiness_repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DABC29E-A4E8-41F7-B936-DDDE83A4B338}|Bussiness_Repository\\Bussiness_Repository.csproj|solutionrelative:bussiness_repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE59005A-E6D9-47FC-9209-6745CF3A0BF2}|Business_Service\\Business_Service.csproj|c:\\users\\pc\\source\\repos\\prn211-bai1\\business_service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE59005A-E6D9-47FC-9209-6745CF3A0BF2}|Business_Service\\Business_Service.csproj|solutionrelative:business_service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\PRN211-Bai1\\PRN211-Bai1\\Program.cs",
+              "RelativeDocumentMoniker": "PRN211-Bai1\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\PRN211-Bai1\\PRN211-Bai1\\Program.cs",
+              "RelativeToolTip": "PRN211-Bai1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T00:54:49.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book_DAO.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\PRN211-Bai1\\Bussiness_Object\\Book_DAO.cs",
+              "RelativeDocumentMoniker": "Bussiness_Object\\Book_DAO.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\PRN211-Bai1\\Bussiness_Object\\Book_DAO.cs",
+              "RelativeToolTip": "Bussiness_Object\\Book_DAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T00:41:38.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\PRN211-Bai1\\Bussiness_Repository\\Class1.cs",
+              "RelativeDocumentMoniker": "Bussiness_Repository\\Class1.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\PRN211-Bai1\\Bussiness_Repository\\Class1.cs",
+              "RelativeToolTip": "Bussiness_Repository\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T00:38:06.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\PRN211-Bai1\\Business_Service\\Class1.cs",
+              "RelativeDocumentMoniker": "Business_Service\\Class1.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\PRN211-Bai1\\Business_Service\\Class1.cs",
+              "RelativeToolTip": "Business_Service\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T00:37:43.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\PRN211-Bai1\\PRN211-Bai1\\Form1.cs",
+              "RelativeDocumentMoniker": "PRN211-Bai1\\Form1.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\PRN211-Bai1\\PRN211-Bai1\\Form1.cs [Design]",
+              "RelativeToolTip": "PRN211-Bai1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T00:31:44.597Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

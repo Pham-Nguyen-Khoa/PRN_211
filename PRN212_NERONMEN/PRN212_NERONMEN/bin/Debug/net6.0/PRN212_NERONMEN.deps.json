@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PRN212_NERONMEN/1.0.0": {
+        "runtime": {
+          "PRN212_NERONMEN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PRN212_NERONMEN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,383 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\CandidateManagement_StudentName\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD76E4B4-4B02-4FF5-853E-8F8EBEFFDA82}|Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj|c:\\users\\pc\\source\\repos\\candidatemanagement_studentname\\candidate_businessobjects\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD76E4B4-4B02-4FF5-853E-8F8EBEFFDA82}|Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj|solutionrelative:candidate_businessobjects\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD76E4B4-4B02-4FF5-853E-8F8EBEFFDA82}|Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj|c:\\users\\pc\\source\\repos\\candidatemanagement_studentname\\candidate_businessobjects\\candicateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD76E4B4-4B02-4FF5-853E-8F8EBEFFDA82}|Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj|solutionrelative:candidate_businessobjects\\candicateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD76E4B4-4B02-4FF5-853E-8F8EBEFFDA82}|Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj|c:\\users\\pc\\source\\repos\\candidatemanagement_studentname\\candidate_businessobjects\\models\\jobposting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD76E4B4-4B02-4FF5-853E-8F8EBEFFDA82}|Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj|solutionrelative:candidate_businessobjects\\models\\jobposting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD76E4B4-4B02-4FF5-853E-8F8EBEFFDA82}|Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj|c:\\users\\pc\\source\\repos\\candidatemanagement_studentname\\candidate_businessobjects\\models\\hraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD76E4B4-4B02-4FF5-853E-8F8EBEFFDA82}|Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj|solutionrelative:candidate_businessobjects\\models\\hraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD76E4B4-4B02-4FF5-853E-8F8EBEFFDA82}|Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj|c:\\users\\pc\\source\\repos\\candidatemanagement_studentname\\candidate_businessobjects\\models\\candidateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD76E4B4-4B02-4FF5-853E-8F8EBEFFDA82}|Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj|solutionrelative:candidate_businessobjects\\models\\candidateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD76E4B4-4B02-4FF5-853E-8F8EBEFFDA82}|Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj|c:\\users\\pc\\source\\repos\\candidatemanagement_studentname\\candidate_businessobjects\\candidate_businessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CD76E4B4-4B02-4FF5-853E-8F8EBEFFDA82}|Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj|solutionrelative:candidate_businessobjects\\candidate_businessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C97499-67E8-45E6-963D-8E8B484CFF18}|CandidateManagement_Neronmen\\CandidateManagement_Neronmen.csproj|c:\\users\\pc\\source\\repos\\candidatemanagement_studentname\\candidatemanagement_neronmen\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C97499-67E8-45E6-963D-8E8B484CFF18}|CandidateManagement_Neronmen\\CandidateManagement_Neronmen.csproj|solutionrelative:candidatemanagement_neronmen\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FB464E-4A67-411B-86E2-35639CC82DD7}|Candidate_Services\\Candidate_Services.csproj|c:\\users\\pc\\source\\repos\\candidatemanagement_studentname\\candidate_services\\ihraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1FB464E-4A67-411B-86E2-35639CC82DD7}|Candidate_Services\\Candidate_Services.csproj|solutionrelative:candidate_services\\ihraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C97499-67E8-45E6-963D-8E8B484CFF18}|CandidateManagement_Neronmen\\CandidateManagement_Neronmen.csproj|c:\\users\\pc\\source\\repos\\candidatemanagement_studentname\\candidatemanagement_neronmen\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9C97499-67E8-45E6-963D-8E8B484CFF18}|CandidateManagement_Neronmen\\CandidateManagement_Neronmen.csproj|solutionrelative:candidatemanagement_neronmen\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C97499-67E8-45E6-963D-8E8B484CFF18}|CandidateManagement_Neronmen\\CandidateManagement_Neronmen.csproj|c:\\users\\pc\\source\\repos\\candidatemanagement_studentname\\candidatemanagement_neronmen\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9C97499-67E8-45E6-963D-8E8B484CFF18}|CandidateManagement_Neronmen\\CandidateManagement_Neronmen.csproj|solutionrelative:candidatemanagement_neronmen\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2DD88C-3B4C-468E-9A39-287C62CF65D8}|Candidate_DAO\\Candidate_DAO.csproj|c:\\users\\pc\\source\\repos\\candidatemanagement_studentname\\candidate_dao\\candidate_dao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1C2DD88C-3B4C-468E-9A39-287C62CF65D8}|Candidate_DAO\\Candidate_DAO.csproj|solutionrelative:candidate_dao\\candidate_dao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2DD88C-3B4C-468E-9A39-287C62CF65D8}|Candidate_DAO\\Candidate_DAO.csproj|c:\\users\\pc\\source\\repos\\candidatemanagement_studentname\\candidate_dao\\candidatemanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2DD88C-3B4C-468E-9A39-287C62CF65D8}|Candidate_DAO\\Candidate_DAO.csproj|solutionrelative:candidate_dao\\candidatemanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2DD88C-3B4C-468E-9A39-287C62CF65D8}|Candidate_DAO\\Candidate_DAO.csproj|c:\\users\\pc\\source\\repos\\candidatemanagement_studentname\\candidate_dao\\hraccountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2DD88C-3B4C-468E-9A39-287C62CF65D8}|Candidate_DAO\\Candidate_DAO.csproj|solutionrelative:candidate_dao\\hraccountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD490261-2793-4FB6-BA31-FAD0F9B38AC2}|Candidate_Repository\\Candidate_Repository.csproj|c:\\users\\pc\\source\\repos\\candidatemanagement_studentname\\candidate_repository\\hraccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD490261-2793-4FB6-BA31-FAD0F9B38AC2}|Candidate_Repository\\Candidate_Repository.csproj|solutionrelative:candidate_repository\\hraccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD490261-2793-4FB6-BA31-FAD0F9B38AC2}|Candidate_Repository\\Candidate_Repository.csproj|c:\\users\\pc\\source\\repos\\candidatemanagement_studentname\\candidate_repository\\ihraccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD490261-2793-4FB6-BA31-FAD0F9B38AC2}|Candidate_Repository\\Candidate_Repository.csproj|solutionrelative:candidate_repository\\ihraccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C97499-67E8-45E6-963D-8E8B484CFF18}|CandidateManagement_Neronmen\\CandidateManagement_Neronmen.csproj|c:\\users\\pc\\source\\repos\\candidatemanagement_studentname\\candidatemanagement_neronmen\\candidateprofilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9C97499-67E8-45E6-963D-8E8B484CFF18}|CandidateManagement_Neronmen\\CandidateManagement_Neronmen.csproj|solutionrelative:candidatemanagement_neronmen\\candidateprofilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FB464E-4A67-411B-86E2-35639CC82DD7}|Candidate_Services\\Candidate_Services.csproj|c:\\users\\pc\\source\\repos\\candidatemanagement_studentname\\candidate_services\\hraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1FB464E-4A67-411B-86E2-35639CC82DD7}|Candidate_Services\\Candidate_Services.csproj|solutionrelative:candidate_services\\hraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD490261-2793-4FB6-BA31-FAD0F9B38AC2}|Candidate_Repository\\Candidate_Repository.csproj|c:\\users\\pc\\source\\repos\\candidatemanagement_studentname\\candidate_repository\\candidate_repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AD490261-2793-4FB6-BA31-FAD0F9B38AC2}|Candidate_Repository\\Candidate_Repository.csproj|solutionrelative:candidate_repository\\candidate_repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C97499-67E8-45E6-963D-8E8B484CFF18}|CandidateManagement_Neronmen\\CandidateManagement_Neronmen.csproj|c:\\users\\pc\\source\\repos\\candidatemanagement_studentname\\candidatemanagement_neronmen\\candidatemanagement_neronmen.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F9C97499-67E8-45E6-963D-8E8B484CFF18}|CandidateManagement_Neronmen\\CandidateManagement_Neronmen.csproj|solutionrelative:candidatemanagement_neronmen\\candidatemanagement_neronmen.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FB464E-4A67-411B-86E2-35639CC82DD7}|Candidate_Services\\Candidate_Services.csproj|c:\\users\\pc\\source\\repos\\candidatemanagement_studentname\\candidate_services\\candidate_services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1FB464E-4A67-411B-86E2-35639CC82DD7}|Candidate_Services\\Candidate_Services.csproj|solutionrelative:candidate_services\\candidate_services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C97499-67E8-45E6-963D-8E8B484CFF18}|CandidateManagement_Neronmen\\CandidateManagement_Neronmen.csproj|c:\\users\\pc\\source\\repos\\candidatemanagement_studentname\\candidatemanagement_neronmen\\candidateprofilewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C97499-67E8-45E6-963D-8E8B484CFF18}|CandidateManagement_Neronmen\\CandidateManagement_Neronmen.csproj|solutionrelative:candidatemanagement_neronmen\\candidateprofilewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C97499-67E8-45E6-963D-8E8B484CFF18}|CandidateManagement_Neronmen\\CandidateManagement_Neronmen.csproj|c:\\users\\pc\\source\\repos\\candidatemanagement_studentname\\candidatemanagement_neronmen\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C97499-67E8-45E6-963D-8E8B484CFF18}|CandidateManagement_Neronmen\\CandidateManagement_Neronmen.csproj|solutionrelative:candidatemanagement_neronmen\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobPosting.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CandidateManagement_StudentName\\Candidate_BusinessObjects\\Models\\JobPosting.cs",
+              "RelativeDocumentMoniker": "Candidate_BusinessObjects\\Models\\JobPosting.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CandidateManagement_StudentName\\Candidate_BusinessObjects\\Models\\JobPosting.cs",
+              "RelativeToolTip": "Candidate_BusinessObjects\\Models\\JobPosting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T00:30:20.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hraccount.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CandidateManagement_StudentName\\Candidate_BusinessObjects\\Models\\Hraccount.cs",
+              "RelativeDocumentMoniker": "Candidate_BusinessObjects\\Models\\Hraccount.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CandidateManagement_StudentName\\Candidate_BusinessObjects\\Models\\Hraccount.cs",
+              "RelativeToolTip": "Candidate_BusinessObjects\\Models\\Hraccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T00:30:19.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CandidateProfile.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CandidateManagement_StudentName\\Candidate_BusinessObjects\\Models\\CandidateProfile.cs",
+              "RelativeDocumentMoniker": "Candidate_BusinessObjects\\Models\\CandidateProfile.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CandidateManagement_StudentName\\Candidate_BusinessObjects\\Models\\CandidateProfile.cs",
+              "RelativeToolTip": "Candidate_BusinessObjects\\Models\\CandidateProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T00:30:18.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CandidateManagement_StudentName\\Candidate_BusinessObjects\\Class1.cs",
+              "RelativeDocumentMoniker": "Candidate_BusinessObjects\\Class1.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CandidateManagement_StudentName\\Candidate_BusinessObjects\\Class1.cs",
+              "RelativeToolTip": "Candidate_BusinessObjects\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:21:23.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CandicateProfile.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CandidateManagement_StudentName\\Candidate_BusinessObjects\\CandicateProfile.cs",
+              "RelativeDocumentMoniker": "Candidate_BusinessObjects\\CandicateProfile.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CandidateManagement_StudentName\\Candidate_BusinessObjects\\CandicateProfile.cs",
+              "RelativeToolTip": "Candidate_BusinessObjects\\CandicateProfile.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:20:27.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Candidate_BusinessObjects.csproj",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CandidateManagement_StudentName\\Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj",
+              "RelativeDocumentMoniker": "Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CandidateManagement_StudentName\\Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj",
+              "RelativeToolTip": "Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-19T16:19:47.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CandidateManagement_StudentName\\CandidateManagement_Neronmen\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CandidateManagement_Neronmen\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CandidateManagement_StudentName\\CandidateManagement_Neronmen\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CandidateManagement_Neronmen\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAD4vx8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T15:11:31.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CandidateManagement_StudentName\\CandidateManagement_Neronmen\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CandidateManagement_Neronmen\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CandidateManagement_StudentName\\CandidateManagement_Neronmen\\MainWindow.xaml",
+              "RelativeToolTip": "CandidateManagement_Neronmen\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-13T01:59:41.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HRAccountRepo.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CandidateManagement_StudentName\\Candidate_Repository\\HRAccountRepo.cs",
+              "RelativeDocumentMoniker": "Candidate_Repository\\HRAccountRepo.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CandidateManagement_StudentName\\Candidate_Repository\\HRAccountRepo.cs",
+              "RelativeToolTip": "Candidate_Repository\\HRAccountRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T00:23:59.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IHRAccountRepo.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CandidateManagement_StudentName\\Candidate_Repository\\IHRAccountRepo.cs",
+              "RelativeDocumentMoniker": "Candidate_Repository\\IHRAccountRepo.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CandidateManagement_StudentName\\Candidate_Repository\\IHRAccountRepo.cs",
+              "RelativeToolTip": "Candidate_Repository\\IHRAccountRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T00:24:01.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HRAccountDAO.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CandidateManagement_StudentName\\Candidate_DAO\\HRAccountDAO.cs",
+              "RelativeDocumentMoniker": "Candidate_DAO\\HRAccountDAO.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CandidateManagement_StudentName\\Candidate_DAO\\HRAccountDAO.cs",
+              "RelativeToolTip": "Candidate_DAO\\HRAccountDAO.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwCUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T00:19:47.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CandidateManagementContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CandidateManagement_StudentName\\Candidate_DAO\\CandidateManagementContext.cs",
+              "RelativeDocumentMoniker": "Candidate_DAO\\CandidateManagementContext.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CandidateManagement_StudentName\\Candidate_DAO\\CandidateManagementContext.cs",
+              "RelativeToolTip": "Candidate_DAO\\CandidateManagementContext.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T00:19:40.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CandidateProfileWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CandidateManagement_StudentName\\CandidateManagement_Neronmen\\CandidateProfileWindow.xaml",
+              "RelativeDocumentMoniker": "CandidateManagement_Neronmen\\CandidateProfileWindow.xaml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CandidateManagement_StudentName\\CandidateManagement_Neronmen\\CandidateProfileWindow.xaml",
+              "RelativeToolTip": "CandidateManagement_Neronmen\\CandidateProfileWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-17T01:15:01.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IHRAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CandidateManagement_StudentName\\Candidate_Services\\IHRAccountService.cs",
+              "RelativeDocumentMoniker": "Candidate_Services\\IHRAccountService.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CandidateManagement_StudentName\\Candidate_Services\\IHRAccountService.cs",
+              "RelativeToolTip": "Candidate_Services\\IHRAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T00:23:27.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HRAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CandidateManagement_StudentName\\Candidate_Services\\HRAccountService.cs",
+              "RelativeDocumentMoniker": "Candidate_Services\\HRAccountService.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CandidateManagement_StudentName\\Candidate_Services\\HRAccountService.cs",
+              "RelativeToolTip": "Candidate_Services\\HRAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T00:23:29.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Candidate_Repository.csproj",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CandidateManagement_StudentName\\Candidate_Repository\\Candidate_Repository.csproj",
+              "RelativeDocumentMoniker": "Candidate_Repository\\Candidate_Repository.csproj",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CandidateManagement_StudentName\\Candidate_Repository\\Candidate_Repository.csproj",
+              "RelativeToolTip": "Candidate_Repository\\Candidate_Repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-19T15:41:01.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CandidateManagement_Neronmen.csproj",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CandidateManagement_StudentName\\CandidateManagement_Neronmen\\CandidateManagement_Neronmen.csproj",
+              "RelativeDocumentMoniker": "CandidateManagement_Neronmen\\CandidateManagement_Neronmen.csproj",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CandidateManagement_StudentName\\CandidateManagement_Neronmen\\CandidateManagement_Neronmen.csproj",
+              "RelativeToolTip": "CandidateManagement_Neronmen\\CandidateManagement_Neronmen.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-13T02:07:18.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Candidate_Services.csproj",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CandidateManagement_StudentName\\Candidate_Services\\Candidate_Services.csproj",
+              "RelativeDocumentMoniker": "Candidate_Services\\Candidate_Services.csproj",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CandidateManagement_StudentName\\Candidate_Services\\Candidate_Services.csproj",
+              "RelativeToolTip": "Candidate_Services\\Candidate_Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-17T00:28:45.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CandidateManagement_StudentName\\CandidateManagement_Neronmen\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "CandidateManagement_Neronmen\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CandidateManagement_StudentName\\CandidateManagement_Neronmen\\AssemblyInfo.cs",
+              "RelativeToolTip": "CandidateManagement_Neronmen\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T00:34:26.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CandidateManagement_StudentName\\CandidateManagement_Neronmen\\App.xaml",
+              "RelativeDocumentMoniker": "CandidateManagement_Neronmen\\App.xaml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CandidateManagement_StudentName\\CandidateManagement_Neronmen\\App.xaml",
+              "RelativeToolTip": "CandidateManagement_Neronmen\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-17T00:34:24.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CandidateProfileWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CandidateManagement_StudentName\\CandidateManagement_Neronmen\\CandidateProfileWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CandidateManagement_Neronmen\\CandidateProfileWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CandidateManagement_StudentName\\CandidateManagement_Neronmen\\CandidateProfileWindow.xaml.cs",
+              "RelativeToolTip": "CandidateManagement_Neronmen\\CandidateProfileWindow.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwCEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T01:44:05.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Candidate_DAO.csproj",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CandidateManagement_StudentName\\Candidate_DAO\\Candidate_DAO.csproj",
+              "RelativeDocumentMoniker": "Candidate_DAO\\Candidate_DAO.csproj",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CandidateManagement_StudentName\\Candidate_DAO\\Candidate_DAO.csproj",
+              "RelativeToolTip": "Candidate_DAO\\Candidate_DAO.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-17T00:15:36.048Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

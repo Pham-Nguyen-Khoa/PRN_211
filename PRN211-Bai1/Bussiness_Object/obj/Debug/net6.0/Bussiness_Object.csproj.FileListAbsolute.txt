@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\PRN211-Bai1\Bussiness_Object\bin\Debug\net6.0\Bussiness_Object.deps.json
+C:\Users\PC\source\repos\PRN211-Bai1\Bussiness_Object\bin\Debug\net6.0\Bussiness_Object.dll
+C:\Users\PC\source\repos\PRN211-Bai1\Bussiness_Object\bin\Debug\net6.0\Bussiness_Object.pdb
+C:\Users\PC\source\repos\PRN211-Bai1\Bussiness_Object\obj\Debug\net6.0\Bussiness_Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\PRN211-Bai1\Bussiness_Object\obj\Debug\net6.0\Bussiness_Object.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\PRN211-Bai1\Bussiness_Object\obj\Debug\net6.0\Bussiness_Object.AssemblyInfo.cs
+C:\Users\PC\source\repos\PRN211-Bai1\Bussiness_Object\obj\Debug\net6.0\Bussiness_Object.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\PRN211-Bai1\Bussiness_Object\obj\Debug\net6.0\Bussiness_Object.dll
+C:\Users\PC\source\repos\PRN211-Bai1\Bussiness_Object\obj\Debug\net6.0\refint\Bussiness_Object.dll
+C:\Users\PC\source\repos\PRN211-Bai1\Bussiness_Object\obj\Debug\net6.0\Bussiness_Object.pdb
+C:\Users\PC\source\repos\PRN211-Bai1\Bussiness_Object\obj\Debug\net6.0\ref\Bussiness_Object.dll

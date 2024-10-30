@@ -1,0 +1,163 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "Business_Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Bussiness_Repository": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Business_Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Business_Service.dll": {}
+        }
+      },
+      "Bussiness_DAO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Bussiness_Object": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Bussiness_DAO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Bussiness_DAO.dll": {}
+        }
+      },
+      "Bussiness_Object/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Bussiness_Object.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Bussiness_Object.dll": {}
+        }
+      },
+      "Bussiness_Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Bussiness_DAO": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Bussiness_Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Bussiness_Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Business_Service/1.0.0": {
+      "type": "project",
+      "path": "../Business_Service/Business_Service.csproj",
+      "msbuildProject": "../Business_Service/Business_Service.csproj"
+    },
+    "Bussiness_DAO/1.0.0": {
+      "type": "project",
+      "path": "../Bussiness_DAO/Bussiness_DAO.csproj",
+      "msbuildProject": "../Bussiness_DAO/Bussiness_DAO.csproj"
+    },
+    "Bussiness_Object/1.0.0": {
+      "type": "project",
+      "path": "../Bussiness_Object/Bussiness_Object.csproj",
+      "msbuildProject": "../Bussiness_Object/Bussiness_Object.csproj"
+    },
+    "Bussiness_Repository/1.0.0": {
+      "type": "project",
+      "path": "../Bussiness_Repository/Bussiness_Repository.csproj",
+      "msbuildProject": "../Bussiness_Repository/Bussiness_Repository.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "Business_Service >= 1.0.0",
+      "Bussiness_Object >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\PC\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\PC\\source\\repos\\PRN211-Bai1\\PRN211-Bai1\\PRN211-Bai1.csproj",
+      "projectName": "PRN211-Bai1",
+      "projectPath": "C:\\Users\\PC\\source\\repos\\PRN211-Bai1\\PRN211-Bai1\\PRN211-Bai1.csproj",
+      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PC\\source\\repos\\PRN211-Bai1\\PRN211-Bai1\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "C:\\Users\\PC\\source\\repos\\PRN211-Bai1\\Business_Service\\Business_Service.csproj": {
+              "projectPath": "C:\\Users\\PC\\source\\repos\\PRN211-Bai1\\Business_Service\\Business_Service.csproj"
+            },
+            "C:\\Users\\PC\\source\\repos\\PRN211-Bai1\\Bussiness_Object\\Bussiness_Object.csproj": {
+              "projectPath": "C:\\Users\\PC\\source\\repos\\PRN211-Bai1\\Bussiness_Object\\Bussiness_Object.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

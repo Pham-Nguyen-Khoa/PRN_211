@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\PRN212_NERONMEN\PRN212_NERONMEN\bin\Debug\net6.0\PRN212_NERONMEN.exe
+C:\Users\PC\source\repos\PRN212_NERONMEN\PRN212_NERONMEN\bin\Debug\net6.0\PRN212_NERONMEN.deps.json
+C:\Users\PC\source\repos\PRN212_NERONMEN\PRN212_NERONMEN\bin\Debug\net6.0\PRN212_NERONMEN.runtimeconfig.json
+C:\Users\PC\source\repos\PRN212_NERONMEN\PRN212_NERONMEN\bin\Debug\net6.0\PRN212_NERONMEN.dll
+C:\Users\PC\source\repos\PRN212_NERONMEN\PRN212_NERONMEN\bin\Debug\net6.0\PRN212_NERONMEN.pdb
+C:\Users\PC\source\repos\PRN212_NERONMEN\PRN212_NERONMEN\obj\Debug\net6.0\PRN212_NERONMEN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\PRN212_NERONMEN\PRN212_NERONMEN\obj\Debug\net6.0\PRN212_NERONMEN.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\PRN212_NERONMEN\PRN212_NERONMEN\obj\Debug\net6.0\PRN212_NERONMEN.AssemblyInfo.cs
+C:\Users\PC\source\repos\PRN212_NERONMEN\PRN212_NERONMEN\obj\Debug\net6.0\PRN212_NERONMEN.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\PRN212_NERONMEN\PRN212_NERONMEN\obj\Debug\net6.0\PRN212_NERONMEN.dll
+C:\Users\PC\source\repos\PRN212_NERONMEN\PRN212_NERONMEN\obj\Debug\net6.0\refint\PRN212_NERONMEN.dll
+C:\Users\PC\source\repos\PRN212_NERONMEN\PRN212_NERONMEN\obj\Debug\net6.0\PRN212_NERONMEN.pdb
+C:\Users\PC\source\repos\PRN212_NERONMEN\PRN212_NERONMEN\obj\Debug\net6.0\PRN212_NERONMEN.genruntimeconfig.cache
+C:\Users\PC\source\repos\PRN212_NERONMEN\PRN212_NERONMEN\obj\Debug\net6.0\ref\PRN212_NERONMEN.dll
